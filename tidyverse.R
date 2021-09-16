@@ -90,3 +90,9 @@ stocks
 tidy_stocks<-
 stocks %>%
   pivot_longer(-time, names_to="stock",values_to="price")
+
+economists<-data.frame(name=c("Adam.Smith","Paul.Samuelson","Milton.Friedman"))
+economists
+
+economists %>%
+  separate(name, c("first_name","last_name"))

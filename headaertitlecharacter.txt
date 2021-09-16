@@ -1,0 +1,1 @@
+"c(\"\n    Front Matter\n  \", \"September 2021\", \"\n    Inattention and Switching Costs as Sources of Inertia in Medicare Part D\n  \", \"September 2021\", \"\n      by  Florian Heiss,  Daniel McFadden,  Joachim Winter,  Amelie Wuppermann and  Bo Zhou    \", \"\n    The Risk-Adjusted Carbon Price\n  \")"
